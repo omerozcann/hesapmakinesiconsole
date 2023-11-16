@@ -1,0 +1,8 @@
+D:\Belgeler\Visual Studio 2022\Projects\hesapmakinesi2\hesapmakinesi2\bin\Debug\hesapmakinesi2.exe.config
+D:\Belgeler\Visual Studio 2022\Projects\hesapmakinesi2\hesapmakinesi2\bin\Debug\hesapmakinesi2.exe
+D:\Belgeler\Visual Studio 2022\Projects\hesapmakinesi2\hesapmakinesi2\bin\Debug\hesapmakinesi2.pdb
+D:\Belgeler\Visual Studio 2022\Projects\hesapmakinesi2\hesapmakinesi2\obj\Debug\hesapmakinesi2.csproj.AssemblyReference.cache
+D:\Belgeler\Visual Studio 2022\Projects\hesapmakinesi2\hesapmakinesi2\obj\Debug\hesapmakinesi2.csproj.SuggestedBindingRedirects.cache
+D:\Belgeler\Visual Studio 2022\Projects\hesapmakinesi2\hesapmakinesi2\obj\Debug\hesapmakinesi2.csproj.CoreCompileInputs.cache
+D:\Belgeler\Visual Studio 2022\Projects\hesapmakinesi2\hesapmakinesi2\obj\Debug\hesapmakinesi2.exe
+D:\Belgeler\Visual Studio 2022\Projects\hesapmakinesi2\hesapmakinesi2\obj\Debug\hesapmakinesi2.pdb
